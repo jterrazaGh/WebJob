@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header, section, footer, aside, nav, figure, figcaption{
+    display: block;
+}
+
+body{
+    text-align: center;
+}
+
+#foto-perfil{
+    max-width: 4rem;
+}
+
+#menu li{
+    display: inline-block;
+}
